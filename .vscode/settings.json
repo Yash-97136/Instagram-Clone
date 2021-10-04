@@ -1,0 +1,6 @@
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+   },
+   "workbench.iconTheme": "material-icon-theme"
+ }
